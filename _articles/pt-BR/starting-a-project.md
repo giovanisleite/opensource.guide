@@ -1,14 +1,14 @@
 ---
-locale: en-US
-title: Starting an Open Source Project
-description: Learn more about the world of open source and get ready to launch your own project.
+locale: pt-BR
+title: Iniciando um projeto de código aberto
+description: Aprenda mais sobre o mundo open source e prepare-se para criar seu próprio projeto.
 class: beginners
 toc:
-  the-what-and-why-of-open-source: "The what and why of open source"
-  should-i-launch-my-own-open-source-project: "Should I launch my own open source project?"
-  launching-your-own-open-source-project: "Launching your own open source project"
-  naming-and-branding-your-project: "Naming and branding your project"
-  your-pre-launch-checklist: "Your pre-launch checklist"
+  the-what-and-why-of-open-source: "O que é e por que open source?"
+  should-i-launch-my-own-open-source-project: "Eu deveria criar meu próprio projeto open source?"
+  launching-your-own-open-source-project: "Criando seu próprio projeto open source"
+  naming-and-branding-your-project: "Criando o nome e a marca do seu projeto"
+  your-pre-launch-checklist: "Checklist antes de criar seu projeto"
 order: 2
 image: /assets/images/cards/beginner.png
 related:
@@ -16,15 +16,15 @@ related:
   - building
 ---
 
-## The "what" and "why" of open source
+## "O que é" e "por que" open source?
 
-So you're thinking about getting started with open source? Congratulations! The world appreciates your contribution. Let's talk about what open source is and why people do it.
+Está pensando em começar um projeto open source? Parabéns! O mundo agradece sua contribuição. Vamos falar sobre o que open source é e por que as pessoas fazem isso.
 
-### What does "open source" mean?
+### O que significa "open source"?
 
-When a project is open source, that means **anybody can view, use, modify, and distribute your project for any purpose.** These permissions are enforced through [an open source license](https://opensource.org/licenses).
+Em tradução literal, significa código aberto. Quando um projeto é open source, isso significa que **qualquer pessoa pode ver, usar, modificar e publicar seu projeto com qualquer finalidade.** Essas permissões são reforçadas por uma [licença open source](https://opensource.org/licenses).
 
-Open source is powerful because it lowers the barriers to adoption, allowing ideas to spread quickly.
+Open source é poderoso porque diminui as barreiras para o uso, permitindo que ideias espalhem-se rapidamente.
 
 To understand how it works, imagine your friend is having a potluck, and you bring a cherry pie.
 

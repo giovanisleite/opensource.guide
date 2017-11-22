@@ -63,33 +63,34 @@ Pois [um licença open source exige](https://opensource.org/osd-annotated) que q
 
 O resultado disso é que a maioria dos projetos open source são gratuitos, mas "livre de custos" não faz parte da definição de open source. Existem meios de cobrar por projetos open source indiretamente através do uso de mais de uma licença ou funcionalidades limitadas, enquanto mantém-se coerente com a definição oficial de open source.
 
-## Should I launch my own open source project?
+## Eu deveria criar meu próprio projeto open source?
 
-The short answer is yes, because no matter the outcome, launching your own project is a great way to learn how open source works.
+A resposta simplificada é sim, porque não importa o resultado, criar seu próprio projeto é uma ótima maneira de aprender como open source funciona.
 
-If you've never open sourced a project before, you might be nervous about what people will say, or whether anyone will notice at all. If this sounds like you, you're not alone!
+Se você nunca teve um projeto open source antes, você talvez fique nervoso sobre o que as pessoas irão dizer, ou se alguém vai, pelo menos, ver. Se é isso que está pensando agora, você não está sozinho!
 
-Open source work is like any other creative activity, whether it's writing or painting. It can feel scary to share your work with the world, but the only way to get better is to practice - even if you don't have an audience.
+O trabalho open source é igual a qualquer outra atividade creativa, como escrever ou pintar. Pode ser assustador compartilhar seu trabalho com o mundo, mas a única forma de melhorar é praticando - mesmo se você não tem um público.
 
-If you're not yet convinced, take a moment to think about what your goals might be.
+Se você não está convencido, pense por um momento em quais são seus objetivos.
 
-### Setting your goals
+### Definindo seus objetivos
 
-Goals can help you figure out what to work on, what to say no to, and where you need help from others. Start by asking yourself,  _why am I open sourcing this project?_
+Objetivos podem ajudar você a descobrir no que trabalhar, no que não, e onde você precisa da ajuda de outras pessoas. Comece se perguntando,  _por que eu estou criando esse projeto open source?_
 
-There is no one right answer to this question. You may have multiple goals for a single project, or different projects with different goals.
+Não existe uma resposta certa para essa pergunta. Você pode ter vários objetivos para um único projeto, ou diferentes projetos com diferentes objetivos.
 
-If your only goal is to show off your work, you may not even want contributions, and even say so in your README. On the other hand, if you do want contributors, you'll invest time into clear documentation and making newcomers feel welcome.
+Se o seu objetivo é mostrar seu trabalho, você pode até não querer contribuições, e dizer isso em seu README. Por outro lado, se você quer contribuidores, você investirá tempo em organizar a documentação e fazer os recém-chegados se sentirem bem vindos.
 
 <aside markdown="1" class="pquote">
   <img src="https://avatars2.githubusercontent.com/u/3520168?v=3&s=460" class="pquote-avatar" alt="avatar">
-  At some point I created a custom UIAlertView that I was using...and I decided to make it open source. So I modified it to be more dynamic and uploaded it to GitHub. I also wrote my first documentation explaining to other developers how to use it on their projects. Probably nobody ever used it because it was a simple project but I was feeling good about my contribution.
+  Em dado momento eu criei um UIAlertView que eu estava usando... e decidi deixa-lo open source. Então, eu modifiquei para ser mais dinâmico e coloquei no Github. Eu também escrevi minha primeira documentação explicando para outros desenvolvedores como usar em seus projetos. Provavelmente ninguém nunca usou porque era um projeto simples, mas eu me senti bem dando minha contribuição.
+
   <p markdown="1" class="pquote-credit">
-— @mavris, ["Self-taught Software Developers: Why Open Source is important to us"](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
+— @mavris, ["Self-taught Software Developers: Why Open Source is important to us" (Desenvolvedores de Software autodidatas: Por que open source é importante para nós)](https://medium.com/rocknnull/self-taught-software-engineers-why-open-source-is-important-to-us-fe2a3473a576#.zhwo5krlq)
   </p>
 </aside>
 
-As your project grows, your community may need more than just code from you. Responding to issues, reviewing code, and evangelizing your project are all important tasks in an open source project.
+Conforme seu projeto cresce, sua comunidade pode precisar de mais do que apenas código. Responder a issues, revisar código e divulgar/evangelizar seu projeto são tarefas importantes de um projeto open source.
 
 While the amount of time you spend on non-coding tasks will depend on the size and scope of your project, you should be prepared as a maintainer to address them yourself or find someone to help you.
 
